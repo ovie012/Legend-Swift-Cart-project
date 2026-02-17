@@ -7,7 +7,7 @@ Legend Cart demonstrates scalable frontend architecture, state management with Z
 
 🚀 Live Demo
 
-
+https://legend-swift-cart-project.vercel.app/
 
 
 🧠 Project Overview
