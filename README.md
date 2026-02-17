@@ -5,12 +5,12 @@ A modern, production-grade mini e-commerce frontend built with React and designe
 Legend Cart demonstrates scalable frontend architecture, state management with Zustand, animated UI with Framer Motion, and form validation using React Hook Form + Zod ... all without a backend.
 
 
-🚀 Live Demo
+Live Demo
 
 https://legend-swift-cart-project.vercel.app/
 
 
-🧠 Project Overview
+Project Overview
 
 Legend Cart is a portfolio-focused e-commerce application built to reflect modern frontend best practices and real-world architecture patterns.
 
@@ -28,7 +28,7 @@ It includes:
 
 This project emphasizes clean architecture, performance, and user experience.
 
-🛠 Tech Stack
+Tech Stack
 
 Core
 	•	React (TypeScript)
@@ -54,15 +54,15 @@ API & Data
 	•	DummyJSON API
 
 
-✨ Features
+Features
 
-🏠 Home Page
+Home Page
 	•	Hero section
 	•	Featured products
 	•	Category preview
 	•	Animated entrances
 
-📦 Products Page
+Products Page
 	•	Paginated product listing
 	•	Category filtering
 	•	Debounced search
@@ -70,27 +70,27 @@ API & Data
 	•	Error handling
 	•	Animated product cards
 
-🔍 Product Details
+Product Details
 	•	Individual product fetch
 	•	Rating display
 	•	Image preview
 	•	Add to cart interaction
 
-🛒 Cart System
+Cart System
 	•	Add / remove items
 	•	Increase / decrease quantity
 	•	Real-time total calculation
 	•	Persisted cart (localStorage)
 	•	Empty cart state
 
-💳 Checkout
+Checkout
 	•	Shipping & billing form
 	•	Zod validation
 	•	Order summary
 	•	Fake processing state
 	•	Route protection
 
-🔐 Authentication (UI Only)
+Authentication (UI Only)
 	•	Login
 	•	Signup
 	•	Forgot Password
@@ -99,7 +99,7 @@ API & Data
 	•	Mock authentication state
 
 
-🧠 State Management
+State Management
 
 Zustand is used for:
 	•	Cart state
@@ -113,7 +113,7 @@ Why Zustand?
 	•	Avoids Redux complexity
 
 
-🎞 Animations
+Animations
 
 Framer Motion is used for:
 	•	Page transitions
@@ -125,7 +125,7 @@ Framer Motion is used for:
 All animations are minimal and performance-friendly.
 
 
-🌐 API Integration
+API Integration
 
 Data is fetched from:
 
@@ -138,7 +138,7 @@ VITE_API_BASE_URL=https://dummyjson.com
 The API layer is centralized inside services/api.js.
 
 
-⚡ Performance Considerations
+Performance Considerations
 	•	Route-based code splitting (React.lazy)
 	•	Suspense fallback loaders
 	•	Memoization where necessary
@@ -148,7 +148,7 @@ The API layer is centralized inside services/api.js.
 	•	Centralized API configuration
 
 
-📱 Responsive Design
+Responsive Design
 
 Mobile-first approach using Tailwind CSS.
 
@@ -158,7 +158,7 @@ Breakpoints optimized for:
 	•	Desktop
 
 
-🧪 Future Improvements
+Future Improvements
 	•	Dark mode toggle
 	•	Cart drawer instead of full page
 	•	Toast notifications
@@ -167,7 +167,7 @@ Breakpoints optimized for:
 	•	Wishlist functionality
 
 
-🎯 What This Project Demonstrates
+What This Project Demonstrates
 	•	Scalable React architecture
 	•	State management with Zustand
 	•	Clean separation of concerns
@@ -177,7 +177,7 @@ Breakpoints optimized for:
 	•	API abstraction discipline
 
 
-👤 Author
+Author
 
 Ovie Emonefe
 Frontend Developer
