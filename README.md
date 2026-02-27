@@ -1,5 +1,9 @@
 # 🛒 Legend Cart
 
+<div align="center">
+  <img width="250" height="250" alt="Logo for Form Canvas" src="./public/legendCartIcon.png" />
+</div>
+
 A modern, production-grade mini e-commerce frontend built with React and designed to mirror real-world 2026 e-commerce experiences.
 
 Legend Cart demonstrates scalable frontend architecture, state management with Zustand, animated UI with Framer Motion, and form validation using React Hook Form + Zod ... all without a backend.
@@ -9,6 +13,8 @@ Legend Cart demonstrates scalable frontend architecture, state management with Z
 ## Live Demo
 
 🔗 https://legend-swift-cart-project.vercel.app/
+
+![Design preview for form canvas ](./public/legend-store.webp)
 
 ---
 
